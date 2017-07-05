@@ -1,0 +1,14 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Docker - Casperjs,phantomjs,jasmine-node,python,jasmine-xml2html-converter",
+  "author": "Vasanth Selvaraj",
+  "dependencies": {
+    "phantomjs": "latest",
+    "jasmine-node": "latest",
+    "express": "^4.13.3",
+    "casperjs": "latest",
+    "python" : "latest" ,
+    "jasmine-xml2html-converter" : "latest"
+  }
+}
